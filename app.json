@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "c60-school-attendance-app",
+    "slug": "snack-35bc94c8-6d4d-4a30-8296-7f32fdcbc617",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This app is a small attendance management system which can keep a record of no. of students present & no. of absent for the day. "
+  }
+}
